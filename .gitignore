@@ -1,2 +1,7 @@
 env.env
 email_list
+.venv/
+
+.scannerwork/
+sonar-project.properties
+sonar.sh
